@@ -5,7 +5,7 @@ import ConnectButton from './ConnectButton'
 
 
 const styles = {
-    header: `bg-[#17171A] text-white h-20 flex gap-[100px] w-full p-[30px]`,
+    header: `bg-[#636363] text-white h-20 flex gap-[100px] w-full p-[30px]`,
     headerWrapper: `flex justify-center h-full max-w-screen-xl mx-auto px-4`,
     nav: `flex justify-center items-center gap-[20px]`,
     navLink: `text-white flex mx-[10px]`,

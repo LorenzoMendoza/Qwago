@@ -11,7 +11,7 @@ import TrendingCard from './TrendingCard'
 
 const styles = {
     trendingWrapper: `mx-auto max-w-screen-2xl`,
-    h1: `text-3xl text-white`,
+    h1: `text-3xl text-black`,
     flexCenter: `flex item-center`,
 }
 
